@@ -3,6 +3,11 @@
 SUTD 50.002 Computational Structures 1D Project <br />
 Group Members consist of: Toh Kai Feng, Amrish Dev Sandhu, Seah Qi Yan, Ong Kah Yuan Joel, Bryan Phengan Hengardi
 
+An arcade game created using Alchitry on the FPGA through implementing a custom 16-bit ALU and Beta CPU. 
+
+View our video here!
+[![Watch the video](https://img.youtube.com/vi/Y1fQ_iF9RfU/maxresdefault.jpg)](https://youtu.be/Y1fQ_iF9RfU)
+
 The premise of the game is simple. You’re a dot. Always have been. You’re blue in colour and exist in a 1-dimensional world, a single axis to traverse. And so, backward and forward you go on your merry way. 
 
 But you’re not alone. There are others along the path too. And they’re in your way. They’re angry and red, and they’ll kill you and take away one (of your three) lives. Fortunately for you, they blink. Or flash, if you’d prefer. That’ll allow you to get past them. 
